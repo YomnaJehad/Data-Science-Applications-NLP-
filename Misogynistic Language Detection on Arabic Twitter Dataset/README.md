@@ -24,7 +24,7 @@ By trying out various Natural Language Processing techniques, we reached a champ
 <li>pandas</li>
 <li>sklearn</li>
 <li>pickle</li>
-<li>nltk</li>
+<li>NLTK</li>
 </ul>
 </li>
 </ul>
